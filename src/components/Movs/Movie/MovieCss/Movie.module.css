@@ -1,0 +1,19 @@
+.special {
+    flex: 20%;
+    padding: 5px;
+}
+
+.special p {
+    color: steelblue;
+    transition: all 1s;
+}
+
+.special p:hover {
+    color: rgb(0, 255, 251);
+  }
+  
+  
+.special img {
+      height: 300px;
+      width: initial;
+  }

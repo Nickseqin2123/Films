@@ -1,0 +1,17 @@
+.topnav {
+    overflow: hidden;
+    background-color: #000000;
+    height: 70px;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav img {
+    
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 17px;
+    text-decoration: none;
+    font-size: 17px;
+  }
